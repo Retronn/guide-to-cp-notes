@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chapter 1 - Introduction.md",
+                "file": "Notes/Chapter 2 — Sorting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Introduction"
+              "title": "Chapter 2 — Sorting"
             }
           }
         ]
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Chapter 1 - Introduction"
             }
+          },
+          {
+            "id": "c63e0065a38b3e8a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,13 +175,37 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "vscode-editor:Create Code File": false
     }
   },
   "active": "76702192b10fdae0",
   "lastOpenFiles": [
+    "Notes/Chapter 1 — Introduction.md",
+    "Notes/Chapter 2 — Sorting.md",
+    "Notes/Chapter 3 — Dynamic Programming.md",
+    "Factory Machines.md",
+    "Code/Sorting & Searching/Array Division.cpp",
+    "Code/Dynamic Programming/Array Description.exe",
+    "Code/Dynamic Programming/Array Description.cpp",
+    "Code/Dynamic Programming/Book Shop copy.cpp",
+    "Code/Dynamic Programming/Book Shop.exe",
+    "Code/Dynamic Programming/Book Shop.cpp",
+    "Code/Dynamic Programming/Grid Paths I copy.cpp",
+    "Code/Dynamic Programming/Grid Paths I.exe",
+    "Code/Dynamic Programming/Grid Paths I.cpp",
+    "Code/Dynamic Programming/Removing Digits copy.cpp",
+    "Index.md",
+    "Hello Check.md",
+    "Untitled.md",
+    "Sorting_and_Searching_Notes_Obsidian_CPP.md",
     "Templates/Algorithm Template.md",
-    "Notes/Chapter 1 - Introduction.md",
-    "Index.md"
+    "Sorting_and_Searching_Notes.md",
+    "Notes/Sorting_and_Searching_Notes_Obsidian.md",
+    "Subarray Sums II.md",
+    "Movie Festival]`, `[[Tasks and Deadlines.md",
+    "Algorithms/Kadane’s Algorithm.md",
+    "Note CP.md"
   ]
 }

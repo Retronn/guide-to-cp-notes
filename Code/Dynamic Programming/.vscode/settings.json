@@ -1,0 +1,19 @@
+{
+	"files.associations": {
+		"*.ejs": "html",
+		"cstddef": "cpp",
+		"iostream": "cpp",
+		"tuple": "cpp",
+		"array": "cpp",
+		"complex": "cpp",
+		"memory": "cpp",
+		"format": "cpp",
+		"future": "cpp",
+		"istream": "cpp",
+		"functional": "cpp",
+		"utility": "cpp",
+		"variant": "cpp",
+		"bitset": "cpp",
+		"set": "cpp"
+	}
+}
